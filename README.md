@@ -1,4 +1,4 @@
-# Gift Check Monitoring System
+# Gift Check Verification
 
 - is a system that manages all gift checks verification.
 
