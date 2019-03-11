@@ -1,12 +1,12 @@
-###################
-Gift Check Verification
-###################
+# Gift Check Monitoring System
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+- is a system that manages all gift checks verification.
 
+## Built With
+[Codeigniter](https://codeigniter.com/) - is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
+
+[jQuery](https://jquery.com/) -   is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. 
+
+[Bootstrap](https://getbootstrap.com/) - is a free and open-source front-end framework for developing websites and web applications.
+
+[BootstrapDialog](https://nakupanda.github.io/bootstrap3-dialog/) - Bootstrap Modal
