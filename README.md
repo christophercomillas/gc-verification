@@ -1,7 +1,5 @@
 # Gift Check Verification
 
-- is a system that manages all gift checks verification.
-
 ## Built With
 
 [PHP](http://www.php.net/) -  Hypertext Preprocessor is a server-side scripting language designed for Web development. 
